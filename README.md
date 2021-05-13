@@ -1,3 +1,2 @@
 # Projet2
-Openclassroom's Projet2 (en cours).
-the final section (Responsive) in build....
+the project is totaly finished
